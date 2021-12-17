@@ -14,13 +14,13 @@
   Installed this so we dont have to restart server everytime we made any changes in development. this package takes cares of this
 
 > Installed dotenv ``` npm install dotenv ```
-  Installed this so we can use environemnt
+  Installed this so we can use environemnt variables declared in .env files
 
 > Installed joi ``` npm install joi ```
   Installed this so we can validate requests
 
 > Installed body-parser ``` npm install body-parser ```
-  Installed this so we can have requests received in json format. Place this at the start of the middleware decelaration in app.js file.
+  Installed this so we can receive requests in json format. Place this at the start of the middleware declaration in app.js file.
 
 > Installed bcryptJS ``` npm install bcryptJS ```
   Installed this so we can encrypt and decrypt passwords
